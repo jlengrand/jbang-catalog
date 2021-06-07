@@ -1,0 +1,8 @@
+{
+  "aliases": {
+    "app-snapshot": {
+      "script-ref": "app_snapshot.java",
+      "description": "helidon-quickstart-se"
+    }
+  }
+}
